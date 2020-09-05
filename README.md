@@ -1,2 +1,4 @@
 # site-serralheria
- site de  microempresa do enterior do rio de janeiro.
+o projeto tem como finaliladade criar um site estilizado para vendas
+ site de  microempresa do enterior do rio de janeiro
+ 
